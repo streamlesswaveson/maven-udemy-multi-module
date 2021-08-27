@@ -9,6 +9,10 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
+    <modules>
+        <module>jpa-entities</module>
+    </modules>
+
     <properties>
         <encoding>UTF-8</encoding>
         <java.version>11</java.version>
